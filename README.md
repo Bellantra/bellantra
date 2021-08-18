@@ -11,12 +11,10 @@
 - 🤔 I’m looking for help with courses for testing automation, Vue and Flutter
 - 📫 How to reach me: https://www.linkedin.com/in/yamila-paez-70b7587b/
 
+## My Git stats!
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bellantra&show_icons=true&theme=solarized-light)
 
-
-
-
-
+## My skills in this repo (for now)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=solarized-light)](https://github.com/Bellantra)
 
 ## My Repos 
