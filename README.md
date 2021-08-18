@@ -1,24 +1,25 @@
-## Hello!! I'm Yamila 👩‍💻👩‍💻👋 
+# Hello!! I'm Yamila 👩‍💻👩‍💻👋 
 
 
 ![descarga](https://user-images.githubusercontent.com/64668681/129879693-9c748fda-514e-48b5-a4a3-8e58b939830e.png)
 
-#### About Me:
+## About Me:
 
 - 🔭 I’m currently looking for a job 😀
 - 🌱 I’m currently learning React,Redux,Typescript
 - 👯 I’m looking to collaborate on differents proyects to improve my skills
 - 🤔 I’m looking for help with courses for testing automation, Vue and Flutter
-- 📫 How to reach me: https://www.linkedin.com/in/yamila-paez-70b7587b/
+- 📫 How to reach me:  _**[linkedin](https://www.linkedin.com/in/yamila-paez-70b7587b)**_
+
 
 ## My Git stats!
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bellantra&show_icons=true&theme=solarized-light)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bellantra&show_icons=true&theme=buefy)](https://github.com/Bellantra)
 
 ## My skills in this Repo (for now)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=solarized-light)](https://github.com/Bellantra)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bellantra&layout=compact&theme=buefy)](https://github.com/Bellantra)
 
 ## My Repos 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bellantra&repo=Weather-App-react&&border_radius=0px&theme=solarized-light)](https://github.com/Bellantra/Weather-App-react)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bellantra&repo=Weather-App-react&&border_radius=0px&theme=buefy)](https://github.com/Bellantra/Weather-App-react)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bellantra&repo=GamesApp-Api&&border_radius=0px&theme=solarized-light)](https://github.com/Bellantra/GamesApp-Api)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bellantra&repo=GamesApp-Api&&border_radius=0px&theme=buefy)](https://github.com/Bellantra/GamesApp-Api)
 
