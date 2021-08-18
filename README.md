@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bellantra&show_icons=true&theme=radical)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bellantra&theme=synthwave=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bellantra&theme=radical)
 
 [![Readme Card](https://github.com/Bellantra/Weather-App-react)
 
