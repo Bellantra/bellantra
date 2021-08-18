@@ -14,7 +14,7 @@
 ## My Git stats!
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bellantra&show_icons=true&theme=solarized-light)
 
-## My skills in this repo (for now)
+## My skills in this Repo (for now)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=solarized-light)](https://github.com/Bellantra)
 
 ## My Repos 
