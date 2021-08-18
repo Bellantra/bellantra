@@ -20,4 +20,5 @@
 ## My Repos 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bellantra&repo=Weather-App-react&&border_radius=0px&theme=solarized-light)](https://github.com/Bellantra/Weather-App-react)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bellantra&repo=GamesApp-Api&&border_radius=0px&theme=solarized-light)](https://github.com/Bellantra/GamesApp-Api)
 
