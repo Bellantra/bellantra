@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![descarga](https://user-images.githubusercontent.com/64668681/129879693-9c748fda-514e-48b5-a4a3-8e58b939830e.png&border_radius=5px)
+![descarga](https://user-images.githubusercontent.com/64668681/129879693-9c748fda-514e-48b5-a4a3-8e58b939830e.png)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bellantra&show_icons=true&theme=solarized-light)
 
