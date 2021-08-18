@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bellantra&theme=dark&show_icons=true)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bellantra&repo=github-readme-stats)](https://github.com/Bellantra/github-readme-stats)
+[![Readme Card](https://github.com/Bellantra/Weather-App-react)
 
 
