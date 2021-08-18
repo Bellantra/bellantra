@@ -1,4 +1,4 @@
-## Hello!! I'm Yamila 👩‍💻👩‍💻👋 ![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6d47634e6a736657416a593541455a4e77362f67697068792e676966](https://user-images.githubusercontent.com/64668681/129881248-23668886-bf2f-47c0-9ae6-3b5adf0c57e0.gif)
+## Hello!! I'm Yamila 👩‍💻👩‍💻👋 
 
 
 ![descarga](https://user-images.githubusercontent.com/64668681/129879693-9c748fda-514e-48b5-a4a3-8e58b939830e.png)
