@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bellantra&theme=dark&show_icons=true)
-api/pin?username=Bellantra&repo=Weather-App-react
+
 [![Readme Card](https://Weather-App-react-stats.vercel.app/api/pin/?username=Bellantra&repo=Weather-App-react)](https://github.com/Bellantra/Weather-App-react)
 
 
