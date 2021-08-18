@@ -19,5 +19,8 @@ Here are some ideas to get you started:
 
 [![Readme Card](https://github.com/Bellantra/Weather-App-react)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
