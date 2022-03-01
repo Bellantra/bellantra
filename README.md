@@ -23,5 +23,5 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bellantra&repo=GamesApp-Api&&border_radius=0px&theme=buefy)](https://github.com/Bellantra/GamesApp-Api)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bellantra&repo=holidayswapp&&border_radius=0px&theme=buefy)](https://github.com/Bellantra/Weather-App-react)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bellantra&repo=holidayswapp&&border_radius=0px&theme=buefy)](https://github.com/Bellantra/holidayswapp)
 
