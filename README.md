@@ -23,5 +23,9 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bellantra&repo=GamesApp-Api&&border_radius=0px&theme=buefy)](https://github.com/Bellantra/GamesApp-Api)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bellantra&repo=holidayswapp&&border_radius=0px&theme=buefy)](https://github.com/Bellantra/holidayswapp)
+## My Grupal Repos!
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bellantra&repo=HolidaySwapp&&border_radius=0px&theme=buefy)](https://github.com/Bellantra/holidayswapp)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bellantra&repo=HLearning&&border_radius=0px&theme=buefy)](https://github.com/Bellantra/HLearning)
 
