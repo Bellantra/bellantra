@@ -18,10 +18,10 @@
 ## My skills in this Repo (for now)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bellantra&layout=compact&theme=buefy)](https://github.com/Bellantra)
 
-## My Repos !
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bellantra&repo=Weather-App-react&&border_radius=0px&theme=buefy)](https://github.com/Bellantra/Weather-App-react)
+## My Personal Repos !
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bellantra&repo=Weather-App-react&&border_radius=0px&theme=buefy)](https://github.com/Bellantra/Weather-App-react)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bellantra&repo=GamesApp-Api&&border_radius=0px&theme=buefy)](https://github.com/Bellantra/GamesApp-Api)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bellantra&repo=GamesApp-Api&&border_radius=0px&theme=buefy)](https://github.com/Bellantra/GamesApp-Api)
+
 
 ## My Grupal Repos!
 
