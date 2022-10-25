@@ -27,5 +27,5 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bellantra&repo=HolidaySwapp&&border_radius=0px&theme=buefy)](https://github.com/Bellantra/holidayswapp)    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bellantra&repo=HLearning&&border_radius=0px&theme=buefy)](https://github.com/Bellantra/HLearning)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bellantra&repo=PetLovers-App&&border_radius=0px&theme=buefy)](https://github.com/Bellantra/PetLovers-App)    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bellantra&repo=PetFinder &&border_radius=0px&theme=buefy)]([https://github.com/Bellantra/PetLovers-App](https://github.com/Bellantra/PetFinder))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bellantra&repo=PetLovers-App&&border_radius=0px&theme=buefy)](https://github.com/Bellantra/PetLovers-App)    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bellantra&repo=PetFinder&&border_radius=0px&theme=buefy)]([https://github.com/Bellantra/PetLovers-App](https://github.com/Bellantra/PetFinder))
 
