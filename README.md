@@ -19,14 +19,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bellantra&layout=compact&theme=buefy)](https://github.com/Bellantra)
 
 ## My Personal Repos !
-<div> [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bellantra&repo=Weather-App-react&&border_radius=0px&theme=buefy)](https://github.com/Bellantra/Weather-App-react)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bellantra&repo=GamesApp-Api&&border_radius=0px&theme=buefy)](https://github.com/Bellantra/GamesApp-Api) <div/>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bellantra&repo=Weather-App-react&&border_radius=0px&theme=buefy)](https://github.com/Bellantra/Weather-App-react)   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bellantra&repo=GamesApp-Api&&border_radius=0px&theme=buefy)](https://github.com/Bellantra/GamesApp-Api) 
 
 
 
 ## My Grupal Repos!
 
-<div> [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bellantra&repo=HolidaySwapp&&border_radius=0px&theme=buefy)](https://github.com/Bellantra/holidayswapp)    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bellantra&repo=HLearning&&border_radius=0px&theme=buefy)](https://github.com/Bellantra/HLearning) <div/>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bellantra&repo=HolidaySwapp&&border_radius=0px&theme=buefy)](https://github.com/Bellantra/holidayswapp)    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bellantra&repo=HLearning&&border_radius=0px&theme=buefy)](https://github.com/Bellantra/HLearning) 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bellantra&repo=PetLovers-App&&border_radius=0px&theme=buefy)](https://github.com/Bellantra/PetLovers-App)    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bellantra&repo=PetFinder&&border_radius=0px&theme=buefy)](https://github.com/Bellantra/PetFinder)
 
