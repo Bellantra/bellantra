@@ -29,3 +29,5 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bellantra&repo=HLearning&&border_radius=0px&theme=buefy)](https://github.com/Bellantra/HLearning)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bellantra&repo=PetLoversg&&border_radius=0px&theme=buefy)](https://github.com/Bellantra/PetLovers-App)
+
